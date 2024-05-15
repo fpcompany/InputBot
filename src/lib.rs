@@ -1,5 +1,5 @@
 #![doc = include_str!("../README.md")]
-#![feature(error_generic_member_access)]
+//#![feature(error_generic_member_access)]
 
 mod common;
 
